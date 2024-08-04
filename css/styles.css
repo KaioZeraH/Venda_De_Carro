@@ -148,6 +148,16 @@ nav ul button:hover {
 }
 
 
+/*Produc catalog*/
 
+section .catalog {
+    width: 100vw;
+    padding: 100px;
+}
 
-
+section .filter-card{
+    width: 1000px;
+    height: 150px;
+    background: var(--gray);
+    border-radius: 8px;
+}
